@@ -1,0 +1,849 @@
+PubMed_ID	Year	Title
+41490382	2026	GraphRAG-Enabled Local Large Language Model for Gestational Diabetes Mellitus:
+39890454	2026	myAURA: a personalized health library for epilepsy management via knowledge graph
+41520226	2026	Benchmarking knowledge graph embedding models for the prediction of oligogenic
+40601466	2026	LLM-DDI: Leveraging Large Language Models for Drug-Drug Interaction Prediction on
+41610815	2026	Ontology-grounded knowledge graphs for mitigating hallucinations in large
+41511539	2026	Knowledge graph and emerging trends in beta-arrestin research on pain: a
+41555498	2026	textToKnowledgeGraph: Generation of Molecular Interaction Knowledge Graphs Using
+41652023	2026	ConvAHKG: Action-based hybrid knowledge graph with a dual-channel convolutional
+41093082	2026	Zero-shot medical image classification via large multimodal models and knowledge
+41352163	2026	The development of the Human Health Exposure Analysis Resource (HHEAR) Data
+41518988	2026	Knowledge graph integration of clustered medicinal plants, molecules, diseases,
+41091930	2026	IMGT(R) at scale: FAIR, dynamic, and automated tools for immune locus analysis.
+41588062	2026	Retraction Note: Knowledge graph driven medicine recommendation system using
+41346025	2026	Conformal Prediction with Knowledge Graphs for Reliable Antimicrobial Resistance
+41531547	2026	RNA-KG v2.0: an RNA-centered Knowledge Graph with Properties.
+41481758	2026	FKG-MM: A multi-modal fuzzy knowledge graph with data integration in healthcare.
+41474270	2026	IFNg_DeepKG: A Novel Model for Identifying Interferon-Gamma-Inducing Epitopes
+41319399	2026	MedSumGraph: enhancing GraphRAG for medical QA with summarization and optimized
+41519968	2026	Knowledge-graph embeddings for osteoarthritis candidate prediction.
+41385310	2026	Causal knowledge graph analysis identifies adverse drug effects.
+41559079	2026	A unified knowledge graph linking foodomics to chemical-disease networks and
+41502535	2026	Real-time clinical analytics at scale: a platform built on large language
+41647240	2026	A Joint Survival Modeling and Therapy Knowledge Graph Framework to Characterize
+41461900	2026	A multimodal vision knowledge graph of cardiovascular disease.
+40674201	2026	Knowledge-Augmented Patient Network Embedding-Based Dynamic Model Selection for
+41570511	2026	Rule-augmented constraint learning for semantic error detection in MIMIC-III
+41535301	2026	SEA CDM: Study-Experiment-Assay Common Data Model and Databases for Cross-Domain
+41588523	2026	Advancing the modernization of traditional Chinese medicine through artificial
+41124298	2026	AcuKG: a comprehensive knowledge graph for medical acupuncture.
+41481915	2026	Large Language Model-Based Virtual Patient Systems for History-Taking in Medical
+41659468	2026	BEACON: predicting side effects and therapeutics outcomes to drugs by Bridging
+41514421	2026	Comic: explainable drug repurposing via contrastive masking for interpretable
+41646767	2026	Scaling Biomedical Knowledge Graph Retrieval for Interpretable Reasoning:
+41668933	2026	A novel combination of genomic loci in ITGB2, COL5A1 and VEGFA associated with
+39879562	2025	The TOXIN knowledge graph: supporting animal-free risk assessment of cosmetics.
+40062244	2025	Tuck-KGC: based on tensor decomposition for diabetes knowledge graph completion
+38917286	2025	Knowledge Graph Neural Network With Spatial-Aware Capsule for Drug-Drug
+40674899	2025	HMEA: A hierarchical medical knowledge graph entity alignment model fusing
+40164620	2025	Deciphering shared molecular dysregulation across Parkinson's disease variants
+40306017	2025	Alzheimer's disease knowledge graph enhances knowledge discovery and disease
+40832351	2025	The Data Distillery: A Graph Framework for Semantic Integration and Querying of
+40460925	2025	Focused digital cohort selection from social media using the metric backbone of
+40220286	2025	Detecting emergencies in patient portal messages using large language models and
+41282634	2025	Target fishing: from "needle in haystack" to "precise guidance"--new technology,
+40635371	2025	Announcing the Biomedical Data Translator: Initial Public Release.
+41420084	2025	Simulated patient systems powered by large language model-based AI agents offer
+39745279	2025	TarIKGC: A Target Identification Tool Using Semantics-Enhanced Knowledge Graph
+40956607	2025	Creating an Interactive Web Interface for Networks Stored in Knowledge Graph
+40502235	2025	Integrating Social Determinants of Health into Knowledge Graphs: Evaluating
+41423603	2025	KGLGANSynergy: knowledge graph-based local and global attention network for drug
+41217910	2025	KG-SLomics: Synthetic Lethality Prediction Using Knowledge Graph and Cancer
+39856093	2025	Connecting electronic health records to a biomedical knowledge graph to link
+40945218	2025	From raw data to research-ready: A FHIR-based transformation pipeline in a
+40046747	2025	TCMRD - KG: innovative design and development of rheumatology knowledge graph in
+41180464	2025	An AI-powered data curation and publishing virtual assistant: usability and
+40700523	2025	PlantConnectome: A knowledge graph database encompassing >71,000 plant articles.
+41018737	2025	Research on intelligent matching of students' learning ability and healthcare job
+40839671	2025	Integrative molecular network analysis of genetic risk factors to infer
+39383070	2025	Improving Molecule Generation and Drug Discovery With a Knowledge-Enhanced
+40474035	2025	CMedRAGBot: A Chinese Medical Chatbot Based on Graph RAG and Large Language
+40271414	2025	Prioritization of novel anti-infective stilbene derivatives by combining
+40835041	2025	Biomedical knowledge graph verification with multitask learning architectures.
+39420631	2025	scTWAS Atlas: an integrative knowledgebase of single-cell transcriptome-wide
+41118646	2025	Improving Large Language Model Applications in the Medical and Nursing Domains
+40721587	2025	Enhanced pre-recruitment framework for clinical trial questionnaires through the
+41279605	2025	KSMoFinder - Knowledge graph embedding of proteins and motifs for predicting
+41367590	2025	Development of a large language model-based knowledge graph for
+40894144	2025	DRIVE-KG: Enhancing variant-phenotype association discovery in understudied
+41040799	2025	Desiderata for a biomedical knowledge network: opportunities, challenges and
+40781534	2025	A hybrid reinforcement learning and knowledge graph framework for financial risk
+40056842	2025	TCM-KLLaMA: Intelligent generation model for Traditional Chinese Medicine
+40146985	2025	Large Language Model-Driven Knowledge Graph Construction in Sepsis Care Using
+40712809	2025	A review on knowledge graphs for healthcare: Resources, applications, and
+41135780	2025	Pseudo-labeling and knowledge-guided contrastive learning for radiology report
+41438126	2025	BioMedKG: multimodal contrastive representation learning in augmented BioMedical
+39696898	2025	SciAgents: Automating Scientific Discovery Through Bioinspired Multi-Agent
+40587360	2025	MDP-GRL: Multi-disease Prediction by Graph-enabled Representation Learning.
+40924778	2025	KG-MACNF: A nonlinear cross-modal fusion model for predicting drug-target
+39896139	2025	Natural Language Processing (NLP): Identifying Linguistic Gender Bias in
+41000411	2025	Named entity recognition for Chinese electronic medical records by integrating
+39764040	2025	Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph
+41388277	2025	Improving medical students' learning absorption in a knowledge graph based
+39558177	2025	HERB 2.0: an updated database integrating clinical and experimental evidence for
+39980548	2025	Bibliometric analysis of rhein in the treatment of tumors.
+39859192	2025	Overview and Prospects of DNA Sequence Visualization.
+40591693	2025	Semantic knowledge graph fusion for fake news detection: Unifying content-based
+40352975	2025	Large language models for intelligent RDF knowledge graph construction: results
+39832275	2025	A comprehensive graph neural network method for predicting triplet motifs in
+40811286	2025	Bi-Encoder-Based Approach to Biomedical Document-Level Entity Recognition and
+39745733	2025	Neighborhood Topology-Aware Knowledge Graph Learning and Microbial Preference
+40057806	2025	Gene expression knowledge graph for patient representation and diabetes
+40880396	2025	Using Environmental Mixture Exposure-Triggered Biological Knowledge-Driven
+40187181	2025	A systematic review of molecular structures, knowledge graphs, and cold-start
+38168218	2025	A comprehensive large scale biomedical knowledge graph for AI powered data driven
+40804250	2025	Large language model powered knowledge graph construction for mental health
+41657773	2025	GRAYU: graph-based database integrating Ayurvedic formulations, medicinal plants,
+41282535	2025	Integrating graph convolutional networks with large language models for
+40860546	2025	A hypergraph convolution-based intelligent healthcare platform for aging
+41177245	2025	Clinical pathway-aware large language models for reliable and transparent medical
+40893436	2025	Quantifying compatibility mechanisms in traditional Chinese medicine with
+41464893	2025	ForestFoodKG: A Structured Dataset and Knowledge Graph for Forest Food Taxonomy
+41223409	2025	Assessing Data Quality in Heterogeneous Health Care Integration: Simulation Study
+39952627	2025	Enhancing clinical data warehousing with provenance data to support longitudinal
+39993309	2025	Leveraging Medical Knowledge Graphs Into Large Language Models for Diagnosis
+40950582	2025	Unraveling the HIV-malaria interactions: a bibliometric analysis of global
+39811326	2025	Bibliometric analysis of laryngeal cancer treatment literature (2003-2023).
+39418829	2025	Knowledge-driven multi-graph convolutional network for brain network analysis and
+40380154	2025	Federated SPARQL query performance evaluation for exploring disease model mouse:
+40764995	2025	eCBT-I dialogue system: a comparative evaluation of large language models and
+40966139	2025	KGMAEDDI: Knowledge Graph and Molecular-Graph Masked Autoencoder for Drug-Drug
+40298230	2025	Natural language processing in drug discovery: bridging the gap between text and
+40194555	2025	Interpretable high-order knowledge graph neural network for predicting synthetic
+40426694	2025	A Unified Framework for Alzheimer's Disease Knowledge Graphs: Architectures,
+40443033	2025	SeedLLM.Rice: A large language model integrated with rice biological knowledge
+40745316	2025	Bind: large-scale biological interaction network discovery through knowledge
+40349883	2025	Robust temporal knowledge inference via pathway snapshots with liquid neural
+40810826	2025	A multi-view validation framework for LLM-generated knowledge graphs of chronic
+40832041	2025	GraphCheck: Breaking Long-Term Text Barriers with Extracted Knowledge
+41056421	2025	The role of graph topology in the performance of biomedical Knowledge Graph
+40496493	2025	RNA knowledge-graph analysis through homogeneous embedding methods.
+40127852	2025	Integrating Mendelian randomization and literature-mined evidence for breast
+41212277	2025	From bench to knowledge graph: mapping the global evolution of PD-1/PD-L1
+40357433	2025	From knowledge silos to integrated insights: building a cardiovascular medication
+40166361	2025	Applied machine learning in intelligent systems: knowledge graph-enhanced
+40140273	2025	Knowledge Graph-Based Few-Shot Learning for Label of Medical Imaging Reports.
+40865355	2025	Knowledge graph-driven curation of heme-TLR4 interactions in inflammatory
+40942913	2025	QAMT: An LLM-Based Framework for Quality-Assured Medical Time-Series Data
+41182461	2025	The research landscape and evolutionary trends of robot-assisted orthopedic
+41458885	2025	A novel computational analysis integrating social determinants information from
+41019254	2025	An ontology-based method for formalizing and encoding patient colonoscopy
+41002262	2025	monarchr: an R package for querying biomedical knowledge graphs.
+39921707	2025	OpenPVSignal Knowledge Graph: Pharmacovigilance Signal Reports in a
+39884058	2025	ExPDrug: Integration of an interpretable neural network and knowledge graph for
+40150098	2025	An Ensemble Patient Graph Framework for Predictive Modelling from Electronic
+39647635	2025	Unlocking biological insights from differentially expressed genes: Concepts,
+40438742	2025	From text to traits: exploring the role of large language models in plant
+40898580	2025	Lumbar spondylolysis: A bibliometric analysis and visualization research from
+41301129	2025	An Explainable AI Framework for Corneal Imaging Interpretation and Refractive
+40463593	2025	Enhancing the performance of neurosurgery medical question-answering systems
+41052159	2025	Learning Universal Knowledge Graph Embedding for Predicting Biomedical Pairwise
+40144645	2025	Enhanced hierarchical attention networks for predictive interactome analysis of
+40580451	2025	KGG: a fully automated workflow for creating disease-specific knowledge graphs.
+41253865	2025	Research on the construction and application of retrieval enhanced generation
+40635974	2025	TCMKD: From ancient wisdom to modern insights-A comprehensive platform for
+41120019	2025	Reimagining ethnopharmacology with generative AI: Towards inclusive, ethical, and
+40470052	2025	KGSD-Net: a knowledge graph syndrome differentiation network for syndrome
+40909744	2025	SEA CDM: Study-Experiment-Assay Common Data Model and Databases for Cross-Domain
+41422356	2025	The structure-preserving spectral graph neural network for dual kinase inhibitors
+40505141	2025	Knowledge Graph-Enhanced Deep Learning Model (H-SYSTEM) for Hypertensive
+41541556	2025	Prediction of interactions between the SARS-CoV-2 ORF3a protein and
+41155097	2025	Disease-Specific Prediction of Missense Variant Pathogenicity with DNA Language
+38886846	2025	Knowledge graphs in psychiatric research: Potential applications and future
+40777357	2025	textToKnowledgeGraph: Generation of Molecular Interaction Knowledge Graphs Using
+40951793	2025	MicrobiomeKG: bridging microbiome research and host health through knowledge
+40057225	2025	Yeast Knowledge Graphs Database for Exploring Saccharomyces Cerevisiae and
+41323648	2025	KSMoFinder-knowledge graph embedding of proteins and motifs for predicting
+40114255	2025	Enriched knowledge representation in biological fields: a case study of
+39952626	2025	Precision Drug Repurposing (PDR): Patient-level modeling and prediction combining
+41286991	2025	scKGBERT: a knowledge-enhanced foundation model for single-cell transcriptomics.
+41071612	2025	MODA: a graph convolutional network-based multi-omics integration framework for
+40791355	2025	VaxKG: Integrating The Vaccine Ontology And VIOLIN For Advanced Vaccine Queries
+40516453	2025	KEM-IoMT: Knowledge graph embedding-enhanced accurate medical service
+41141906	2025	A Chinese question and answer system for liver cancer based on knowledge graph
+41383772	2025	VaxjoGNN: A Graph Neural Network for Ontology-Grounded Vaccine Adjuvant
+40011529	2025	Hypothesizing mechanistic links between microbes and disease using knowledge
+41260778	2025	KG-CNNDTI: a knowledge graph-enhanced prediction model for drug-target
+40854903	2025	Knowledge graph-aided Bayesian active learning for top-K genetic interaction
+40987066	2025	High-quality triage and diagnosis of gynecological diseases via artificial
+40918302	2025	From Patient Consultations to Graphs: Leveraging LLMs for Patient Journey
+39644792	2025	CPRS: a clinical protocol recommendation system based on LLMs.
+40060525	2025	Literature-scaled immunological gene set annotation using AI-powered immune cell
+40776307	2025	A Knowledge Graph-Based Intelligent Q&A System for Rare Diseases.
+40666834	2025	Proteomizer: Leveraging the Transcriptome-Proteome Mismatch to Infer Novel Gene
+41180822	2025	Liver cancer knowledge graph construction based on dynamic entity replacement and
+40527887	2025	PubMed knowledge graph 2.0: Connecting papers, patents, and clinical trials in
+40857811	2025	Med-KGMA: A novel AI-driven medical support system leveraging knowledge graphs
+41584517	2025	KG2ML: integrating knowledge graphs and positive unlabeled learning for
+39677476	2025	ClinVec: Unified Embeddings of Clinical Codes Enable Knowledge-Grounded AI in
+41159113	2025	Structured RDF dataset for genomic feature extraction and detection of
+41260782	2025	Applications of artificial intelligence in the research of molecular mechanisms
+41044475	2025	AgroLD: a knowledge graph for the plant sciences.
+40171303	2025	Knowledge graph and its application in the study of neurological and mental
+40008124	2025	KGRDR: a deep learning model based on knowledge graph and graph regularized
+40544900	2025	KGiA: Drug repurposing through disease-aware knowledge graph augmentation.
+41158176	2025	Knowledge graph for traditional Chinese medicine diagnosis and treatment of
+41282120	2025	Bridging the Computational-Experimental Gap: Leveraging Large Language Model to
+41310422	2025	miCDER: a context-aware transformer model for joint miRNA-disease entity and
+41337148	2025	SL-MERK: Synthetic Lethality Mechanism Explainer based on GraphRAG and Knowledge
+40997587	2025	A novel memory interaction neural network for multi-label drug-drug interaction
+40658983	2025	Performance of Large Language Models in Numerical Versus Semantic Medical
+40330554	2025	Elucidating the mechanistic relationships between peroxisome
+40341005	2025	The SPHN Schema Forge - transform healthcare semantics from human-readable to
+40223439	2025	An update on knowledge graphs and their current and potential applications in
+40502231	2025	Predicting Natural Product-Drug Interactions with Knowledge Graph Embeddings.
+39541901	2025	A step towards quantifying, modelling and exploring uncertainty in biomedical
+40380549	2025	Semantic Representation of Medical Data Collection Forms Using Standards.
+40678475	2025	Adaptive multi-view learning method for enhanced drug repurposing using
+41362652	2025	CHIASMA: Advancing chemicals and materials safety and sustainability assessments
+40784078	2025	The use of knowledge graphs for drug repurposing: From classical machine learning
+41385121	2025	The 28-year evolution of laser acupuncture: a CiteSpace knowledge graph
+40592888	2025	Construction, Deployment, and Usage of the Human Reference Atlas Knowledge Graph.
+40603824	2025	Construction and Application of Traditional Chinese Medicine Knowledge Graph
+40151464	2025	Edge-level multi-constraint graph pattern matching with lung cancer knowledge
+39316494	2025	SLInterpreter: An Exploratory and Iterative Human-AI Collaborative System for
+40085402	2025	MedKG: enabling drug discovery through a unified biomedical knowledge graph.
+40945250	2025	rweChemScreener: high-dimension mediation analysis detects potential effective
+41070750	2025	Database Release: PPSDB, a Linked Open Data Knowledge Base for Protist-Prokaryote
+41222841	2025	LKE-DTA: predicting drug-target binding affinity with large language model
+40066020	2025	Towards cognition-emotion-behaviour models of nonsuicidal self-injury: a
+39926165	2025	Increased discoverability of rare disease datasets through knowledge graph
+40502260	2025	Leveraging Social Determinants of Health in Alzheimer's Research Using
+40327469	2025	Synergistic Drug Combination Prediction via Dual-Level Feature Aggregation and
+40434860	2025	Knowledge-Driven Graph Representation Learning for Myocardial Infarction
+40031828	2025	Enhancing Visual Reasoning With LLM-Powered Knowledge Graphs for Visual Question
+40440330	2025	ERNIE-UIE: Advancing information extraction in Chinese medical knowledge graph.
+40639554	2025	MedKA: A knowledge graph-augmented approach to improve factuality in medical
+40790196	2025	Semantics-driven improvements in electronic health records data quality: a
+40380641	2025	Development of a Voice-Interactive Chatbot for Personalized Health Management
+40564412	2025	Graph Representation Learning for the Prediction of Medication Usage in the UK
+41250680	2025	Structured reflective reasoning for precise medical knowledge graph retrieval
+40971592	2025	A retrieval-augmented knowledge mining method with deep thinking LLMs for
+41304505	2025	Graph Neural Network-Based Toxicity Prediction by Integrating Molecular
+40166563	2025	KG2ML: Integrating Knowledge Graphs and Positive Unlabeled Learning for
+41476879	2025	A self-correcting Agentic Graph RAG for clinical decision support in hepatology.
+41052200	2025	Multimodal LLM for Patient Activity Recognition: Integrating Video, Audio, and
+40598311	2025	Research on the construction and application of pathology knowledge graph.
+41340887	2025	Explainable rule-based prediction of cultivation media for microbes.
+40811188	2025	A Hybrid Ensemble End-to-End Neural Network for Accurate Protein-Protein
+40295595	2025	Chinese medical named entity recognition integrating adversarial training and
+40959983	2025	Graph Neural Networks in Modern AI-Aided Drug Discovery.
+40518789	2025	[Rules of moxibustion for low back pain by ZHOU Meisheng based on data mining and
+40074859	2025	From biomedical knowledge graph construction to semantic querying: a
+39713411	2025	BioMedGraphica: An All-in-One Platform for Joint Textual Biomedical Prior
+40352392	2025	Efficient constitution of a library of rotenoid analogs active against
+40106799	2025	Improving Dietary Supplement Information Retrieval: Development of a
+41444381	2025	SynergyGraph: predicting cell line specific drug combination synergy scores using
+40217132	2025	GeOKG: geometry-aware knowledge graph embedding for Gene Ontology and genes.
+39775838	2025	Knowledge graph-based thought: a knowledge graph-enhanced LLM framework for
+40030432	2025	CBKG-DTI: Multi-Level Knowledge Distillation and Biomedical Knowledge Graph for
+40051508	2025	Building an intelligent diabetes Q&A system with knowledge graphs and large
+40909156	2025	Improving Biomedical Knowledge Graph Quality: A Community Approach.
+40977266	2025	CKG-TPI: integrating collaborative knowledge graph with sequence interactions for
+40518792	2025	[Study on knowledge organization and representation of medical records of stroke
+41286278	2025	Underwater fish image recognition based on knowledge graphs and semi-supervised
+40357648	2025	BioPortal: an open community resource for sharing, searching, and utilizing
+39455647	2024	Knowledge graph driven medicine recommendation system using graph neural networks
+38622164	2024	Repurposing non-pharmacological interventions for Alzheimer's disease through
+39595624	2024	Visualization Methods for DNA Sequences: A Review and Prospects.
+38952679	2024	Drug-target interaction prediction using knowledge graph embedding.
+38043469	2024	MPTN: A message-passing transformer network for drug repurposing from knowledge
+39091742	2024	DREAMER: Exploring Common Mechanisms of Adverse Drug Reactions and Disease
+37398384	2024	Advancing Efficacy Prediction for EHR-based Emulated Trials in Repurposing Heart
+40199309	2024	Knowledge Representation and Management: 2023 Highlights and the Rise of
+38581417	2024	Bayesian functional analysis for untargeted metabolomics data with matching
+38223896	2024	Biomedical Big Data Technologies, Applications, and Challenges for Precision
+38975336	2024	IMGT/mAb-KG: the knowledge graph for therapeutic monoclonal antibodies.
+39543721	2024	Accelerated hit identification with target evaluation, deep learning and
+38475769	2024	KGSCS-a smart care system for elderly with geriatric chronic diseases: a
+39303708	2024	Identifying compound-protein interactions with knowledge graph embedding of
+38556728	2024	A computable biomedical knowledge system: Toward rapidly building
+38295121	2024	A novel Multi-Level Refined (MLR) knowledge graph design and chatbot system for
+39326691	2024	FuseLinker: Leveraging LLM's pre-trained text embeddings and domain knowledge to
+38888947	2024	Developing a Chatbot to Support Individuals With Neurodevelopmental Disorders:
+38415462	2024	Clinical Application of MRI in Coronavirus Disease 2019: A Bibliometric Analysis.
+38559251	2024	MetagenomicKG: a knowledge graph for metagenomic applications.
+38184359	2024	FIT-graph: A multi-grained evolutionary graph based framework for disease
+38694562	2024	Model informed precision medicine of Chinese herbal medicines formulas-A
+39633722	2024	CancerPro: deciphering the pan-cancer prognostic landscape through combinatorial
+38269659	2024	A Personal Healthcare Knowledge Graph Framework for Diagnosis of Pelvic Masses
+38994795	2024	Towards discovery: an end-to-end system for uncovering novel biomedical
+39437605	2024	Multifocal region-assisted cross-modality learning for chest X-ray report
+39746685	2024	[Visualization analysis of research progress on work-related musculoskeletal
+37751105	2024	Global trends in PANoptosis research: bibliometrics and knowledge graph analysis.
+38303427	2024	Enhancing traditional Chinese medicine diagnostics: Integrating ontological
+38440103	2024	Mdpg: a novel multi-disease diagnosis prediction method based on patient
+38670654	2024	Construction of microgravity biological knowledge graph and its applications in
+38650693	2024	Acupuncture and tuina knowledge graph with prompt learning.
+39594561	2024	Data-Driven Insights into the Association Between Oxidative Stress and
+38496488	2024	Predicting drug outcome of population via clinical knowledge graph.
+38296864	2024	Convolutional neural network based data interpretable framework for Alzheimer's
+38330823	2024	Deciphering the comprehensive knowledgebase landscape featuring infertility with
+38178113	2024	A patient safety knowledge graph supporting vaccine product development.
+39560053	2024	Cross-modal embedding integrator for disease-gene/protein association prediction
+39288310	2024	Biomedical knowledge graph-optimized prompt generation for large language models.
+38658132	2024	Medical knowledge graph completion via fusion of entity description and type
+38598532	2024	PresRecST: a novel herbal prescription recommendation algorithm for real-world
+38301394	2024	Improving preliminary clinical diagnosis accuracy through knowledge filtering
+38510014	2024	Two Decades' advancements and Research trends in needle-type Sensor technology: A
+38347589	2024	Knowledge graph construction based on granulosa cells transcriptome from
+37592036	2024	Predicting transcriptional outcomes of novel multigene perturbations with GEARS.
+38766424	2024	Global status and trends of metabolomics in diabetes: A literature visualization
+39174566	2024	An ontology-based knowledge graph for representing interactions involving RNA
+39273492	2024	ToxDAR: A Workflow Software for Analyzing Toxicologically Relevant Proteomic and
+39446541	2024	An End-to-End Knowledge Graph Fused Graph Neural Network for Accurate
+38718126	2024	Phenome-wide identification of therapeutic genetic targets, leveraging knowledge
+38857077	2024	Explainable AI Method for Tinnitus Diagnosis via Neighbor-Augmented Knowledge
+38585647	2024	MKG-GC: A multi-task learning-based knowledge graph construction framework with
+39103390	2024	Shared whole environmental etiology between Alzheimer's disease and age-related
+39169305	2024	The acceptability and effectiveness of artificial intelligence-based chatbot for
+41550147	2024	Natural product databases for drug discovery: Features and applications.
+37702941	2024	Knowledge Graphs and Their Applications in Drug Discovery.
+39622697	2024	Chinese Clinical Named Entity Recognition With Segmentation Synonym Sentence
+38635388	2024	Predicting Future Disorders via Temporal Knowledge Graphs and Medical Ontologies.
+38160285	2024	Generating new drug repurposing hypotheses using disease-specific hypergraphs.
+38534499	2024	Enhancing Error Detection on Medical Knowledge Graphs via Intrinsic Label.
+39148855	2024	A foundation model for clinician-centered drug repurposing.
+38643701	2024	Predicting nutrition and environmental factors associated with female
+39137596	2024	Family history of cancer and lung cancer: Utility of big data and artificial
+38313267	2024	reguloGPT: Harnessing GPT for Knowledge Graph Construction of Molecular
+39364206	2024	A comprehensive evaluation of large language models in mining gene relations and
+38410649	2024	Improving Molecule Generation and Drug Discovery with a Knowledge-enhanced
+37735262	2024	Supervised discovery of interpretable gene programs from single-cell data.
+38409769	2024	Knowledge Graph for Breast Cancer Prevention and Treatment: Literature-Based Data
+40039531	2024	NamE: Capturing Biological Context in KGEs via Contextual Named Graph Embeddings.
+39361955	2024	Ascle-A Python Natural Language Processing Toolkit for Medical Text Generation:
+39374057	2024	Use of SNOMED CT in Large Language Models: Scoping Review.
+39421754	2024	Integrating AI with medical industry chain data: enhancing clinical nutrition
+39176870	2024	Harnessing the Core Propagation Phenomenon Ontology to Develop a Knowledge Graph
+38689720	2024	Multi-layered knowledge graph neural network reveals pathway-level agreement of
+38862529	2024	Towards knowledge-infused automated disease diagnosis assistant.
+39610660	2024	HeteroKGRep: Heterogeneous Knowledge Graph based Drug Repositioning.
+38443441	2024	Incorporating high-frequency information into edge convolution for link
+38412333	2024	BioLORD-2023: semantic textual representations fusing large language models and
+39833104	2024	PHPGAT: predicting phage hosts based on multimodal heterogeneous knowledge graph
+39074014	2024	KGRLFF: Detecting Drug-Drug Interactions Based on Knowledge Graph Representation
+38184346	2024	A few-shot disease diagnosis decision making model based on meta-learning for
+38964369	2024	KG-LIME: predicting individualized risk of adverse drug events for multiple
+38308873	2024	Explaining protein-protein interactions with knowledge graph-based semantic
+39373342	2024	Development and Validation of an AI-Driven System for Automatic Literature
+38968598	2024	Electronic Health Record-Oriented Knowledge Graph System for Collaborative
+38812149	2024	[Research hotspots and frontiers of Realgar based on CiteSpace knowledge graph
+38626249	2024	SubGE-DDI: A new prediction model for drug-drug interaction established through
+39439579	2024	Dynamic Insights: Unraveling Public Demand Evolution in Health Emergencies
+38681752	2024	NeighBERT: Medical Entity Linking Using Relation-Induced Dense Retrieval.
+39769215	2024	Artificial Intelligence-Assisted Comparative Analysis of the Overlapping
+39565895	2024	Graph databases in systems biology: a systematic review.
+39998433	2024	A large language model framework for literature-based disease-gene association
+39575413	2024	Promoting appropriate medication use by leveraging medical big data.
+38471316	2024	TCMSSD: A comprehensive database focused on syndrome standardization.
+39502384	2024	BioKGrapher: Initial evaluation of automated knowledge graph construction from
+38175789	2024	ExEmPLAR (Extracting, Exploring, and Embedding Pathways Leading to Actionable
+39475566	2024	Integrated Knowledge Graph and Drug Molecular Graph Fusion via Adversarial
+39055548	2024	Evolutionary trend analysis of the pharmaceutical management research field from
+39279816	2024	Label Transfer for Drug Disease Association in Three Meta-Paths.
+39554224	2024	KSDKG: construction and application of knowledge graph for kidney stone disease
+38621887	2024	[Element relationship and extension path of clinical evidence knowledge map with
+38745993	2024	Predicting gene disease associations with knowledge graph embeddings for diseases
+39403518	2024	A framework for integrating biomedical knowledge in Wikidata with open biological
+39717202	2024	Joint extraction of entity and relation based on fine-tuning BERT for long
+39568073	2024	A new technology for medical and surgical data organisation: the WSES-WJES
+38597890	2024	NetMe 2.0: a web-based platform for extracting and modeling knowledge from
+38841983	2024	Global Trends in mHealth and Medical Education Research: Bibliometrics and
+39066141	2024	An Intelligent Hand-Assisted Diagnosis System Based on Information Fusion.
+39369079	2024	Enhancing ophthalmology medical record management with multi-modal knowledge
+38555472	2024	A microbial knowledge graph-based deep learning model for predicting candidate
+39176963	2024	Enhancing Patient Empowerment and Health Literacy: Integrating Knowledge Graphs
+39108676	2024	G-PLIP: Knowledge graph neural network for structure-free protein-ligand
+38462270	2024	Detecting mental and physical disorders using multi-task learning equipped with
+38405609	2024	Drug-drug interactions prediction based on deep learning and knowledge graph: A
+38784240	2024	BCSLinker: automatic method for constructing a knowledge graph of venous
+39463087	2024	[Research on Construction of Knowledge Base for MRI Equipment Maintenance Based
+39729353	2024	Artificial Intelligence-Aided Diagnosis System for the Detection and
+39519363	2024	An Accurate and Efficient Approach to Knowledge Extraction from Scientific
+38693563	2024	Elucidating the semantics-topology trade-off for knowledge inference-based
+39464038	2024	MicrobiomeKG: Bridging Microbiome Research and Host Health Through Knowledge
+39372928	2024	BioPathNet: Enhancing Link Prediction in Biomedical Knowledge Graphs through Path
+39197732	2024	Advancing Chinese biomedical text mining with community challenges.
+38163107	2024	Quantitative patient graph analysis for transient ischemic attack risk factor
+38199213	2024	An effective framework for predicting drug-drug interactions based on molecular
+39265815	2024	Community knowledge graph abstraction for enhanced link prediction: A study on
+39540219	2024	Knowledge mapping and research trends of IL-22 from 2014 to 2023: A bibliometric
+38977662	2024	An experimentally validated approach to automated biological evidence generation
+38221564	2024	Knowledge Graph Enhanced Transformers for Diagnosis Generation of Chinese
+39244959	2024	Knowledge graph based reasoning in medical image analysis: A scoping review.
+38909432	2024	EHR coding with hybrid attention and features propagation on disease knowledge
+38830083	2024	KRAGEN: a knowledge graph-enhanced RAG framework for biomedical problem solving
+38532119	2024	Comparison of attribute-based encryption schemes in securing healthcare systems.
+38132638	2024	Comprehensive Review of Drug-Drug Interaction Prediction Based on Machine
+39605475	2024	Generating Biomedical Knowledge Graphs from Knowledge Bases, Registries, and
+38557678	2024	PCAO2: an ontology for integration of prostate cancer associated genotypic,
+39547662	2024	An Online Multimodal Food Data Exploration Platform for Specific Population
+39322717	2024	A foundation model for clinician-centered drug repurposing.
+39695169	2024	Petagraph: A large-scale unifying knowledge graph framework for integrating
+39005357	2024	Alzheimer's Disease Knowledge Graph Enhances Knowledge Discovery and Disease
+38577542	2024	Node-degree aware edge sampling mitigates inflated classification performance in
+38244473	2024	A few-shot link prediction framework to drug repurposing using multi-level
+38680873	2024	TCMM: A unified database for traditional Chinese medicine modernization and
+39176753	2024	MeDaX: A Knowledge Graph on FHIR.
+39659781	2024	Knowledge graph and frontier trends in melanoma-associated ncRNAs: a bibliometric
+39038934	2024	MetalinksDB: a flexible and contextualizable resource of metabolite-protein
+39176807	2024	Evaluating the Predictive Features of Person-Centric Knowledge Graph Embeddings:
+39449040	2024	A multidimensional recommendation framework for identifying biological targets to
+38635981	2024	The Alzheimer's Knowledge Base: A Knowledge Graph for Alzheimer Disease Research.
+38605639	2024	KDGene: knowledge graph completion for disease gene prediction using
+38467324	2024	ParTRE: A relational triple extraction model of complicated entities and
+39392404	2024	TarKG: a comprehensive biomedical knowledge graph for target discovery.
+38147362	2024	Mining literature and pathway data to explore the relations of ketamine with
+39475821	2024	Question Answering for Electronic Health Records: Scoping Review of Datasets and
+39345660	2024	Knowledge mapping and bibliometric analysis of medical knee magnetic resonance
+38548835	2024	Accurate and interpretable drug-drug interaction prediction enabled by knowledge
+38837744	2024	Knowledge Graph Convolutional Network with Heuristic Search for Drug
+39693482	2024	An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction
+39025897	2024	Explainable drug repurposing via path based knowledge graph completion.
+39468510	2024	Bridging chemical structure and conceptual knowledge enables accurate prediction
+38886444	2024	Knowledge graph-derived feed efficiency analysis via pig gut microbiota.
+37963003	2024	Improving Cancer Survival Prediction via Graph Convolutional Neural Network
+39490935	2024	Overview and trend analysis of global hot spring research based on bibliometrics
+39229008	2024	Creating and leveraging bespoke large-scale knowledge graphs for comparative
+39383072	2024	A Knowledge Graph-Based Method for Drug-Drug Interaction Prediction With
+39149355	2024	Path-based reasoning for biomedical knowledge graphs with BioPathNet.
+39506988	2024	Knowledge graph embeddings in the biomedical domain: are they useful? A look at
+39167510	2024	KGRACDA: A Model Based on Knowledge Graph from Recursion and Attention
+39149283	2024	Drug Repurposing using consilience of Knowledge Graph Completion methods.
+39015745	2024	Knowledge graph construction for heart failure using large language models with
+39176526	2024	SIMpat: A Synthetic Benchmark for Similarity Metrics on Patient Representations.
+38605048	2024	An open source knowledge graph ecosystem for the life sciences.
+38293574	2024	DbKB a knowledge graph dataset for diabetes: A system biology approach.
+38773619	2024	The biomedical knowledge graph of symptom phenotype in coronary artery plaque:
+38520725	2024	Ensemble pretrained language models to extract biomedical knowledge from
+38913860	2024	HGTDR: Advancing drug repurposing with heterogeneous graph transformers.
+38184674	2024	Constructing a finer-grained representation of clinical trial results from
+38578805	2024	A probabilistic knowledge graph for target identification.
+38531680	2024	Multimodal learning for temporal relation extraction in clinical texts.
+38608849	2024	DTKGIN: Predicting drug-target interactions based on knowledge graph and intent
+36682018	2023	Biological knowledge graph-guided investigation of immune therapy response in
+36703901	2023	Knowledge and data-driven prediction of organ failure in critical care patients.
+37250641	2023	Early detection of Parkinson's disease through enriching the electronic health
+36752514	2023	ARAX: a graph-based modular reasoning tool for translational biomedicine.
+37361885	2023	An Ostensive Information Architecture to Enhance Semantic Interoperability for
+37587836	2023	KGETCDA: an efficient representation learning framework based on knowledge graph
+37549065	2023	Few-shot biomedical named entity recognition via knowledge-guided instance
+38147864	2023	Knowledge Representation and Management 2022: Findings in Ontology Development
+37601534	2023	Analysis of the evolution of COVID-19 disease understanding through temporal
+37866942	2023	[Knowledge Graph-Based Prediction of Potentially Inappropriate Medication].
+37817193	2023	Construction of a knowledge graph for breast cancer diagnosis based on Chinese
+37391722	2023	Comparing methods for drug-gene interaction prediction on the biomedical
+37749605	2023	Integrative rare disease biomedical profile based network supporting drug
+37130580	2023	KGANSynergy: knowledge graph attention network for drug synergy prediction.
+37818330	2023	KSFinder-a knowledge graph model for link prediction of novel phosphorylated
+37577545	2023	From Answers to Insights: Unveiling the Strengths and Limitations of ChatGPT and
+37163343	2023	Chinese Clinical Named Entity Recognition From Electronic Medical Records Based
+36732524	2023	Building a knowledge graph to enable precision medicine.
+37464259	2023	Semantically enabling clinical decision support recommendations.
+37682956	2023	A large-scale evaluation of NLP-derived chemical-gene/protein relationships from
+37700258	2023	An approach for proteins and their encoding genes synonyms integration based on
+38066573	2023	BioBLP: a modular framework for learning on multimodal biomedical knowledge
+37324451	2023	The construction of a TCM knowledge graph and application of potential knowledge
+37532000	2023	GENA: A knowledge graph for nutrition and mental health.
+38222382	2023	Development of a Knowledge Graph Embeddings Model for Pain.
+37955948	2023	A Mobile App That Addresses Interpretability Challenges in Machine Learning-Based
+36746345	2023	DGCL: Distance-wise and Graph Contrastive Learning for medication recommendation.
+35724280	2023	KGNMDA: A Knowledge Graph Neural Network Method for Predicting Microbe-Disease
+37187795	2023	Mpox Knowledge Graph: a comprehensive representation embedding chemical entities
+38242107	2023	Novel graph-based machine-learning technique for viral infectious diseases:
+38173909	2023	A digital twin model for evidence-based clinical decision support in multiple
+36621750	2023	Mining for equitable health: Assessing the impact of missing data in electronic
+37188275	2023	Evolution-strengthened knowledge graph enables predicting the targetability and
+38282798	2023	In silico protein function prediction: the rise of machine learning-based
+37601035	2023	Development of a knowledge graph framework to ease and empower translational
+37900350	2023	An approach for collaborative development of a federated biomedical knowledge
+37742417	2023	Research on named entity recognition of Traditional Chinese Medicine chest
+37502882	2023	Predicting nutrition and environmental factors associated with female
+37332351	2023	Research on named entity recognition of adverse drug reactions based on NLP and
+37224532	2023	GePI: large-scale text mining, customized retrieval and flexible filtering of
+37717042	2023	DrugMechDB: A Curated Database of Drug Mechanisms.
+38832084	2023	DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity
+37481946	2023	RDKG-115: Assisting drug repurposing and discovery for rare diseases by trimodal
+35687647	2023	GOGCN: Graph Convolutional Network on Gene Ontology for Functional Similarity
+37704104	2023	MKCL: Medical Knowledge with Contrastive Learning model for radiology report
+36540968	2023	Time-aware Embeddings of Clinical Data using a Knowledge Graph.
+36849466	2023	Knowledge grounded medical dialogue generation using augmented graphs.
+38028962	2023	ADHD-KG: a knowledge graph of attention deficit hyperactivity disorder.
+37290540	2023	Integrating domain knowledge for biomedical text analysis into deep learning: A
+37868056	2023	Predicting protein and pathway associations for understudied dark kinases using
+36868686	2023	Automatic knowledge graph population with model-complete text comprehension for
+35969556	2023	Knowledge Guided Feature Aggregation for the Prediction of Chronic Obstructive
+37879936	2023	[Overview of the application of knowledge graphs in the medical field].
+37656647	2023	A Deep Learning Approach to the Prediction of Drug Side-Effects on Molecular
+36660407	2023	Meta-path guided graph attention network for explainable herb recommendation.
+36738869	2023	Defining the distance between diseases using SNOMED CT embeddings.
+37346701	2023	Graph data science and machine learning for the detection of COVID-19 infection
+36680346	2023	Application of an in silico approach identifies a genetic locus within ITGB2, and
+37230406	2023	Towards electronic health record-based medical knowledge graph construction,
+37397987	2023	Serial KinderMiner (SKiM) Discovers and Annotates Biomedical Knowledge Using
+38027969	2023	Multi-ontology embeddings approach on human-aligned multi-ontologies
+37291761	2023	MCFF-MTDDI: multi-channel feature fusion for multi-typed drug-drug interaction
+37778673	2023	Hyperbolic hierarchical knowledge graph embeddings for biological entities.
+37432797	2023	K-PathVQA: Knowledge-Aware Multimodal Representation for Pathology Visual
+37770956	2023	Analysis and implementation of the DynDiff tool when comparing versions of
+37809860	2023	Analysing the current status, hotspots, and future trends of technology
+37759342	2023	Clustering rare diseases within an ontology-enriched knowledge graph.
+37131675	2023	Integrative Rare Disease Biomedical Profile based Network Supporting Drug
+37000304	2023	Emerging trends and research foci of deep learning in spine: bibliometric and
+37086959	2023	Causal feature selection using a knowledge graph combining structured knowledge
+37292731	2023	Repurposing Non-pharmacological Interventions for Alzheimer's Diseases through
+37131885	2023	BioThings Explorer: a query engine for a federated knowledge graph of biomedical
+36933632	2023	Developing a Knowledge Graph for Pharmacokinetic Natural Product-Drug
+37862061	2023	Potential Target Discovery and Drug Repurposing for Coronaviruses: Study
+38076987	2023	Characterization of methods for mechanistic inference of the gut microbiome in
+37458501	2023	RDBridge: a knowledge graph of rare diseases based on large-scale text mining.
+37195430	2023	From Data to Wisdom: Biomedical Knowledge Graphs for Real-World Data Insights.
+37203473	2023	Building a Disease Knowledge Graph.
+37707514	2023	BioThings Explorer: a query engine for a federated knowledge graph of biomedical
+38040715	2023	HALD, a human aging and longevity knowledge graph for precision gerontology and
+37941825	2023	Predicting drug-drug interactions based on multi-view and multichannel attention
+37903412	2023	HetDDI: a pre-trained heterogeneous graph neural network model for drug-drug
+36918766	2023	Multi-view feature representation and fusion for drug-drug interactions
+38015956	2023	Overview of DrugProt task at BioCreative VII: data and methods for large-scale
+37644440	2023	A knowledge graph approach to predict and interpret disease-causing gene
+37203484	2023	Exploring Use Cases for CovidGraph.
+37203634	2023	The MeDaX Knowledge Graph Prototype.
+37947958	2023	Semantic representation of neural circuit knowledge in Caenorhabditis elegans.
+37162850	2023	Semantic Representation of Neural Circuit Knowledge in Caenorhabditis elegans.
+37673376	2023	BioREx: Improving biomedical relation extraction by leveraging heterogeneous
+36780558	2023	AI reveals insights into link between CD33 and cognitive impairment in
+37892864	2023	AIMS: An Automatic Semantic Machine Learning Microservice Framework to Support
+37276949	2023	Multimodal learning on graphs for disease relation extraction.
+37902366	2023	A Knowledge Graph Approach to Elucidate the Role of Organellar Pathways in
+37777722	2023	A systematic review and knowledge mapping on ICT-based remote and automatic
+36658526	2023	Knowledge Graph Embeddings for ICU readmission prediction.
+37759668	2023	Literature-Based Discovery to Elucidate the Biological Links between Resistant
+38106100	2023	Hypothesizing mechanistic links between microbes and disease using knowledge
+37284084	2023	Automatic knowledge extraction from Chinese electronic medical records and
+37502629	2023	BioREx: Improving Biomedical Relation Extraction by Leveraging Heterogeneous
+37648800	2023	Selective UMLS knowledge infusion for biomedical question answering.
+37883224	2023	Protocol to implement a computational pipeline for biomedical discovery based on
+36759942	2023	The scalable precision medicine open knowledge engine (SPOKE): a massive
+37434126	2023	Effect of Artificial Intelligence-based Health Education Accurately Linking
+37580835	2023	Multi-domain knowledge graph embeddings for gene-disease association prediction.
+37681175	2023	MultiGML: Multimodal graph machine learning for prediction of adverse drug
+36540992	2023	Knowledge-Driven Mechanistic Enrichment of the Preeclampsia Ignorome.
+37632414	2023	Large-Scale Biomedical Relation Extraction Across Diverse Relation Types: Model
+37018305	2023	Insight Extraction From E-Health Bookings by Means of Hypergraph and Machine
+37538250	2023	Global Status and Future Trends of Fascia and Pain Research in 2013-2022:
+37161128	2023	Construction and application of Chinese breast cancer knowledge graph based on
+36824742	2023	Clustering rare diseases within an ontology-enriched knowledge graph.
+36836694	2023	Hot Spots and Trends in the Relationship between Cancer and Obesity: A Systematic
+38187653	2023	Iterative Prompt Refinement for Mining Gene Relationships from ChatGPT.
+36645245	2023	SLGNN: synthetic lethality prediction in human cancers based on factor-aware
+38624759	2023	Enhancing drug-drug interaction prediction by three-way decision and knowledge
+37005634	2023	The impact of COVID-19 on online medical education: a knowledge graph analysis
+37161813	2023	[Study on the explicitation of implicit knowledge and the construction of
+37322032	2023	Biomedical knowledge graph learning for drug repurposing by extending
+37190452	2023	A Method Based on Temporal Embedding for the Pairwise Alignment of Dynamic
+38132500	2023	A Visualization Method of Knowledge Graphs for the Computation and Comprehension
+37915001	2023	Serial KinderMiner (SKiM) discovers and annotates biomedical knowledge using
+37221044	2023	BLAB2CancerKD: a knowledge graph database focusing on the association between
+37544660	2023	A model-agnostic framework to enhance knowledge graph-based drug combination
+37339154	2023	Knowledge graph embedding for profiling the interaction between transcription
+37963898	2023	Node embedding-based graph autoencoder outlier detection for adverse pregnancy
+36901929	2023	MSEDDI: Multi-Scale Embedding for Predicting Drug-Drug Interaction Events.
+37145951	2023	A Self-Supervised Framework for Learning Biological Entities Representation by
+36777631	2023	Combining the External Medical Knowledge Graph Embedding to Improve the
+37205439	2023	DrugMechDB: A Curated Database of Drug Mechanisms.
+37100505	2023	Knowledge graph assisted end-to-end medical dialog generation.
+36621289	2023	Extraction of knowledge graph of Covid-19 through mining of unstructured
+37569714	2023	Literature-Based Discovery Predicts Antihistamines Are a Promising Repurposed
+37788508	2023	Incorporating entity-level knowledge in pretrained language model for biomedical
+37108117	2023	BioGraph: Data Model for Linking and Querying Diverse Biological Metadata.
+37705622	2023	A BERT-Span model for Chinese named entity recognition in rehabilitation
+36304325	2022	The druggable genome: Twenty years later.
+35207606	2022	SmileGNN: Drug-Drug Interaction Prediction Based on the SMILES and Graph Neural
+37602759	2022	KGML-xDTD: a knowledge graph-based machine learning framework for drug treatment
+37113445	2022	The Role of Information Boxes in Search Engine Results for Symptom Searches:
+36151740	2022	A review of biomedical datasets relating to drug discovery: a knowledge graph
+35449857	2022	Online Disease Identification and Diagnosis and Treatment Based on Machine
+34755867	2022	PDBe-KB: collaboratively defining the biological context of structural data.
+36093122	2022	A biomedical open knowledge network harnesses the power of AI to understand deep
+36280134	2022	DRGCNCDA: Predicting circRNA-disease interactions based on knowledge graph and
+36147662	2022	The potential of a data centred approach & knowledge graph data representation in
+35908002	2022	Application of Medical Knowledge Graphs in Cardiology and Cardiovascular
+35673010	2022	POKR: Building a Computable Heterogeneous Knowledge Resource for Precision
+36371975	2022	Clinical decision support system for hypertension medication based on knowledge
+36067109	2022	SimH: A Novel Representation Learning Model With Activation and Projection
+35037225	2022	AgroLD: A Knowledge Graph Database for Plant Functional Genomics.
+36035294	2022	A Rule-Based Inference Framework to Explore and Explain the Biological Related
+35713867	2022	BioBERT and Similar Approaches for Relation Extraction.
+35908055	2022	A multi-layer soft lattice based model for Chinese clinical named entity
+35476822	2022	Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and
+35150235	2022	Multimodal reasoning based on knowledge graph embedding for specific diseases.
+36207085	2022	Boosting lesion annotation via aggregating explicit relations in external medical
+35856889	2022	A sequence labeling framework for extracting drug-protein relations from
+35611543	2022	Progress toward a universal biomedical data translator.
+36072713	2022	A Comprehensive Quantitative and Biological Neural Network Optimization Model of
+37128414	2022	Discovering causal paths to diabetic nephropathy by combining computable
+35761319	2022	A hybrid method based on semi-supervised learning for relation extraction in
+35637735	2022	A graph-embedded topic model enables characterization of diverse pain phenotypes
+35102292	2022	A knowledge graph to interpret clinical proteomics data.
+36471947	2022	[Visualization of research in treatment of vascular dementia by CiteSpace].
+34718207	2022	Knowledge-based approaches to drug discovery for rare diseases.
+35854760	2022	Prior Knowledge Enhances Radiology Report Generation.
+35214446	2022	Graph Representation Learning-Based Early Depression Detection Framework in Smart
+35801474	2022	Matching biomedical ontologies with GCN-based feature propagation.
+35636720	2022	idse-HE: Hybrid embedding graph neural network for drug side effects prediction.
+34971981	2022	Safe medicine recommendation via star interactive enhanced-based transformer
+36108322	2022	Context-Enriched Learning Models for Aligning Biomedical Vocabularies at Scale in
+35013714	2022	NETME: on-the-fly knowledge network construction from biomedical literature.
+36304281	2022	Computational Literature-based Discovery for Natural Products Research: Current
+34990838	2022	CODER: Knowledge-infused cross-lingual medical term embedding for term
+34986221	2022	STonKGs: a sophisticated transformer trained on biomedical text and knowledge
+35658098	2022	Deep Denoising of Raw Biomedical Knowledge Graph From COVID-19 Literature,
+35930346	2022	Deciphering the Diversity of Mental Models in Neurodevelopmental Disorders:
+36284225	2022	Modeling electronic health record data using an end-to-end
+35800847	2022	Knowledge Graph Applications in Medical Imaging Analysis: A Scoping Review.
+35343842	2022	Developing an Intuitive Graph Representation of Knowledge for Nonpharmacological
+36276852	2022	Knowledge-Based Recurrent Neural Network for TCM Cerebral Palsy Diagnosis.
+35653350	2022	AnthraxKP: a knowledge graph-based, Anthrax Knowledge Portal mined from
+35709900	2022	Discovering novel drug-supplement interactions using SuppKG generated from the
+36070624	2022	A biomedical knowledge graph-based method for drug-drug interactions prediction
+36180861	2022	Mining on Alzheimer's diseases related knowledge graph to identity potential
+32750871	2022	A Scalable Embedding Based Neural Network Method for Discovering Knowledge From
+35198638	2022	Question Answering System Based on Knowledge Graph in Traditional Chinese
+40936734	2022	Semantic Annotation of NIH Funding Data for Supporting Rare Disease Research.
+36347868	2022	Towards a knowledge graph for pre-/probiotics and microbiota-gut-brain axis
+34875418	2022	ExTRI: Extraction of transcription regulation interactions from literature.
+36384050	2022	Ensembles of knowledge graph embedding models improve predictions for drug
+35655307	2022	Expediting knowledge acquisition by a web framework for Knowledge Graph
+36085310	2022	Integrating and formatting biomedical data as pre-calculated knowledge graph
+35669723	2022	Research Trends around Exercise Rehabilitation among Cancer Patients: A
+34375284	2022	A Multimodal Framework for Improving in Silico Drug Repositioning With the Prior
+36186430	2022	An integrated platform for Brucella with knowledge graph technology: From genomic
+35621799	2022	Bibliometric Analyses of Web of Science Illuminate Research Advances of
+34993070	2022	Model-based clinical note entity recognition for rheumatoid arthritis using
+35673023	2022	A Knowledge Graph of Mechanistic Associations Between COVID-19, Diabetes
+36388397	2022	Editorial: Biomedical informatics applications in rare diseases.
+36812614	2022	Diseasomics: Actionable machine interpretable disease knowledge at the
+36271850	2022	LaGAT: link-aware graph attention network for drug-drug interaction prediction.
+35571058	2022	BioTAGME: A Comprehensive Platform for Biological Knowledge Network Analysis.
+35351890	2022	Knowledge graph-based recommendation framework identifies drivers of resistance
+35847767	2022	CompositeView: A Network-Based Visualization Tool.
+35938002	2022	MLEE: A method for extracting object-level medical knowledge graph entities from
+35246025	2022	Task-driven knowledge graph filtering improves prioritizing drugs for
+35428175	2022	Answering medical questions in Chinese using automatically mined knowledge and
+35753606	2022	A knowledge graph embedding based approach to predict the adverse drug reactions
+34471921	2022	Graph representation learning in bioinformatics: trends, methods and
+35213534	2022	Causal reasoning over knowledge graphs leveraging drug-perturbed and
+34788369	2022	DeepKG: an end-to-end deep learning-based workflow for biomedical knowledge graph
+36533264	2022	The global integrative network: integration of signaling and metabolic pathways.
+35193692	2022	Extending electronic medical records vector models with knowledge graphs to
+32995367	2022	Drug repurposing for COVID-19 using graph neural network and harmonizing multiple
+35547570	2022	Representing Normal and Abnormal Physiology as Routes of Flow in ApiNATOMY.
+35817308	2022	Contexts and contradictions: a roadmap for computational drug repurposing with
+36266295	2022	An automatic hypothesis generation for plausible linkage between xanthium and
+35872266	2022	Multiview Incomplete Knowledge Graph Integration with application to
+36463882	2022	Knowledge Representation and Management: Notable Contributions in 2021.
+40636350	2022	Visual analysis of mesenchymal stem cell research in liver disease based on
+35616633	2022	The LOTUS initiative for open knowledge management in natural products research.
+36347537	2022	e-TSN: an interactive visual exploration platform for target-disease knowledge
+37128437	2022	A knowledge graph-based disease-gene prediction system using multi-relational
+35798258	2022	SiBERT: A Siamese-based BERT network for Chinese medical entities alignment.
+35840060	2022	KG-Predict: A knowledge graph computational framework for drug repurposing.
+36338335	2022	MedGraph: A semantic biomedical information retrieval framework using knowledge
+35936510	2022	Optimizations for Computing Relatedness in Biomedical Heterogeneous Information
+35217186	2022	Leveraging Multi-source knowledge for Chinese clinical named entity recognition
+35536818	2022	Biomedical Relation Extraction With Knowledge Graph-Based Recommendations.
+36175836	2022	RTX-KG2: a system for building a semantically standardized knowledge graph for
+36032005	2022	Graph-based structural knowledge-aware network for diagnosis assistant.
+35182735	2022	Defining clinical outcome pathways.
+35963184	2022	AsthmaKGxE: An asthma-environment interaction knowledge graph leveraging public
+35186106	2022	Decision-Making System for the Diagnosis of Syndrome Based on Traditional Chinese
+36258252	2022	Expanding a database-derived biomedical knowledge graph via multi-relation
+36712855	2022	Biological gene extraction path based on knowledge graph and natural language
+36053172	2022	BERN2: an advanced neural biomedical named entity recognition and normalization
+36326815	2022	The Application of Graph Theoretical Analysis to Complex Networks in Medical
+35880623	2022	Implications of topological imbalance for representation learning on biomedical
+35815295	2022	Knowledge Graph and Deep Learning-based Text-to-GQL Model for Intelligent Medical
+34649044	2022	Toward better drug discovery with knowledge graph.
+36101548	2022	Exploring relationship between emotion and probiotics with knowledge graphs.
+35809972	2022	Gated Tree-based Graph Attention Network (GTGAT) for medical knowledge graph
+35304504	2022	A knowledge graph of clinical trials ([Formula: see text]).
+35855405	2022	GFCNet: Utilizing graph feature collection networks for coronavirus knowledge
+35363142	2022	A Smart Mobile App to Simplify Medical Documents and Improve Health Literacy:
+36053574	2022	Leveraging Representation Learning for the Construction and Application of a
+35453147	2022	Attention-based Knowledge Graph Representation Learning for Predicting Drug-drug
+35323892	2022	A knowledge-driven network for fine-grained relationship detection between miRNA
+35821898	2022	Wikidata and the bibliography of life.
+35716558	2022	Knowledge matters: Chest radiology report generation with general and specific
+35454813	2022	Ontologies and Knowledge Graphs in Oncology Research.
+34915552	2022	Embedding electronic health records onto a knowledge network recognizes prodromal
+35511108	2022	GraphTGI: an attention-based graph embedding model for predicting TF-target gene
+36427233	2022	The Generation of a Lung Cancer Health Factor Distribution Using Patient Graphs
+35224477	2021	Semantic Integration of Multi-Modal Data and Derived Neuroimaging Results Using
+34209818	2021	Toward a Coronavirus Knowledge Graph.
+37981991	2021	Leveraging Structured Biological Knowledge for Counterfactual Inference: A Case
+34920699	2021	Improving deep learning method for biomedical named entity recognition by using
+33680447	2021	Knowledge Graphs of Kawasaki Disease.
+40932882	2021	Scientific Evidence Based Knowledge Graph in Rare Diseases.
+33445483	2021	Knowledge Network Embedding of Transcriptomic Data from Spaceflown Mice Uncovers
+34819064	2021	Predicting the hosts of prokaryotic viruses using GCN-based semi-supervised
+33720331	2021	MUFFIN: multi-scale feature fusion for drug-drug interaction prediction.
+34081107	2021	PDBe aggregated API: programmatic access to an integrative knowledge graph of
+33941085	2021	The Coronavirus Network Explorer: mining a large-scale knowledge graph for
+33964127	2021	CLEP: a hybrid data- and knowledge-driven framework for generating patient
+34613368	2021	COVID-19 Knowledge Graph from semantic integration of biomedical literature and
+35821978	2021	Robust Knowledge Graph Completion with Stacked Convolutions and a Student
+34283031	2021	A Biomedical Knowledge Graph System to Propose Mechanistic Hypotheses for
+34252965	2021	KG4SL: knowledge graph neural network for synthetic lethality prediction in human
+33482803	2021	A protocol for adding knowledge to Wikidata: aligning resources on human
+34073456	2021	Biomedical Text Link Prediction for Drug Discovery: A Case Study with COVID-19.
+34322474	2021	Research on the Construction and Application of Breast Cancer-Specific Database
+34180203	2021	[Research on entity relationship extraction of Chinese medical literature and
+34920700	2021	Deep learning with language models improves named entity recognition for
+34322655	2021	Discovering and Summarizing Relationships Between Chemicals, Genes, Proteins, and
+34289807	2021	Disease ontologies for knowledge graphs.
+33833858	2021	Research on Medical Knowledge Graph for Stroke.
+34604514	2021	A knowledge graph based question answering method for medical domain.
+34358107	2021	Current Status of Baricitinib as a Repurposed Therapy for COVID-19.
+34543288	2021	Biomedical Data Commons (BMDC) prioritizes B-lymphocyte non-coding genetic
+33175089	2021	COVID-KOP: integrating emerging COVID-19 data with the ROBOKOP database.
+34412847	2021	A framework to extract biomedical knowledge from gluten-related tweets: The case
+34514393	2021	CADA: phenotype-driven gene prioritization based on a case-enriched knowledge
+33769494	2021	SumGNN: multi-typed drug interaction prediction via efficient knowledge graph
+34252923	2021	Bacteriophage classification for assembled contigs using graph convolutional
+34128811	2021	Constructing High-Fidelity Phenotype Knowledge Graphs for Infectious Diseases
+34458724	2021	A Policy-Driven Approach to Secure Extraction of COVID-19 Data From Research
+34910274	2021	Data Centric Molecular Analysis and Evaluation of Hepatocellular Carcinoma
+34142015	2021	Comparative effectiveness of medical concept embedding for feature engineering in
+33554913	2021	A Systems Biology Approach for Hypothesizing the Effect of Genetic Variants on
+33843398	2021	Knowledge graphs and their applications in drug discovery.
+35308956	2021	Discovering Associations between Social Determinants and Health Outcomes: Merging
+34478489	2021	FORUM: building a Knowledge Graph from public databases and scientific literature
+33107905	2021	A representation model for biological entities by fusing structured axioms with
+33406037	2021	Contrast-Attentive Thoracic Disease Recognition With Dual-Weighting Graph
+34042777	2021	Using Knowledge Graphs to Plausibly Infer Missing Associations in EMR Data.
+33495660	2021	Visual SLAM for robot navigation in healthcare facility.
+34693372	2021	Accessing scientific data through knowledge graphs with Ontop.
+33341877	2021	PharmKG: a dedicated knowledge graph benchmark for bomedical data mining.
+34393789	2021	Expert-Augmented Computational Drug Repurposing Identified Baricitinib as a
+34125897	2021	DGLinker: flexible knowledge-graph prediction of disease-gene associations.
+34042671	2021	Building a Knowledge Graph Representing Causal Associations Between Risk Factors
+33794760	2021	HARVESTMAN: a framework for hierarchical feature learning and selection from
+34794473	2021	Scientific evidence based rare disease research discovery with research funding
+32065227	2021	Biological applications of knowledge graph embedding models.
+34900233	2021	An empirical study on Resource Description Framework reification for
+33742785	2021	Application of MCAT questions as a testing tool and evaluation metric for
+33816992	2021	Application and evaluation of knowledge graph embeddings in biomedical data.
+34325669	2021	Mining a stroke knowledge graph from literature.
+34346903	2021	Construction of Genealogical Knowledge Graphs From Obituaries: Multitask Neural
+34976109	2021	MKA: A Scalable Medical Knowledge-Assisted Mechanism for Generative Models on
+34848761	2021	Drug repurposing for COVID-19 using graph neural network and harmonizing multiple
+34789243	2021	Automatic diagnosis of COVID-19 infection based on ontology reasoning.
+33724197	2021	Using a Personal Health Library-Enabled mHealth Recommender System for
+34181736	2021	CROssBAR: comprehensive resource of biomedical relations with knowledge graph
+34066262	2021	Visualization and Analysis of Mapping Knowledge Domains for Food Waste Studies.
+31295118	2021	Relation Prediction of Co-Morbid Diseases Using Knowledge Graph Completion.
+34093095	2021	Pay attention to doctor-patient dialogues: Multi-modal knowledge graph attention
+34185011	2021	Drug-Drug Interaction Predictions via Knowledge Graph and Text Embedding:
+34777727	2021	Multitask Healthcare Management Recommendation System Leveraging Knowledge Graph.
+34297570	2021	Knowledge Graph-Based Approaches to Drug Repurposing for COVID-19.
+34653225	2021	Identifying disease-gene associations using a convolutional neural network-based
+33750020	2021	KnetMiner: a comprehensive approach for supporting evidence-based gene discovery
+34119691	2021	Learning Drug-Disease-Target Embedding (DDTE) from knowledge graphs to inform
+34694230	2021	Adverse Drug Event Prediction Using Noisy Literature-Derived Knowledge Graphs:
+34119692	2021	KeMRE: Knowledge-enhanced medical relation extraction for Chinese medicine
+34200671	2021	A Literature-Derived Knowledge Graph Augments the Interpretation of Single Cell
+34844576	2021	Path-based knowledge reasoning with textual semantic information for medical
+34326889	2021	Design and Evaluation of a Prescription Drug Monitoring Program for Chinese
+32591802	2021	Enriching contextualized language model from knowledge graph for biomedical
+33262885	2021	Predicting the relationships between gut microbiota and mental disorders with
+34057414	2021	Head and Tail Entity Fusion Model in Medical Knowledge Graph Construction: Case
+31797583	2020	Robustly Extracting Medical Knowledge from EHRs: A Case Study of Learning a
+33183351	2020	An integrative knowledge graph for rare diseases, derived from the Genetic and
+32575372	2020	A Knowledge-Based Machine Learning Approach to Gene Prioritisation in Amyotrophic
+32985996	2020	Marrying Medical Domain Knowledge With Deep Learning on Electronic Health
+32386166	2020	Knowledge Graph-Enabled Cancer Data Analytics.
+33372664	2020	Using Character-Level and Entity-Level Representations to Enhance Bidirectional
+33746351	2020	Benchmark and Best Practices for Biomedical Knowledge Graph Embeddings.
+32343247	2020	A Knowledge Graph of Combined Drug Therapies Using Semantic Predications From
+33181823	2020	A Collection of Benchmark Data Sets for Knowledge Graph-based Similarity in the
+32706714	2020	Medical Knowledge Graph to Enhance Fraud, Waste, and Abuse Detection on Claim
+33147635	2020	Leveraging the UMLS As a Data Standard for Rare Disease Data Normalization and
+33026359	2020	Construction of a Digestive System Tumor Knowledge Graph Based on Chinese
+32143785	2020	Real-world data medical knowledge graph: construction and applications.
+32885786	2020	Chinese Clinical Named Entity Recognition in Electronic Medical Records:
+32046238	2020	Information Management in Healthcare and Environment: Towards an Automatic System
+33275462	2020	Construction of a knowledge graph for diabetes complications from expert-reviewed
+32646496	2020	KGHC: a knowledge graph for hepatocellular carcinoma.
+33584816	2020	Adverse Drug Reaction Discovery Using a Tumor-Biomarker Knowledge Graph.
+32923430	2020	Explainable Prediction of Medical Codes With Knowledge Graphs.
+31797619	2020	A Literature-Based Knowledge Graph Embedding Method for Identifying Drug
+32783631	2020	Graph Neural Network-Based Diagnosis Prediction.
+32211383	2020	A Computational Approach for Mapping Heme Biology in the Context of Hemolytic
+32364514	2020	Multi-Level Representation Learning for Chinese Medical Entity Recognition: Model
+32109551	2020	Research on Chinese medical named entity recognition based on collaborative
+32410573	2020	Broad-coverage biomedical relation extraction with SemRep.
+32348257	2020	A Graph Convolutional Network-Based Method for Chemical-Protein Interaction
+32175080	2020	Automatic approach for constructing a knowledge graph of knee osteoarthritis in
+32819419	2020	Identifying disease trajectories with predicate information from a knowledge
+33954284	2020	Knowledge-Based Biomedical Data Science.
+32591513	2020	Building a PubMed knowledge graph.
+32477648	2020	Text Snippets to Corroborate Medical Relations: An Unsupervised Approach using a
+32878204	2020	Knowledge-Based Decision Support in Healthcare via Near Field Communication.
+31368482	2020	Discovering protein drug targets using knowledge graph embeddings.
+33330858	2020	Drug Repurposing for COVID-19 using Graph Neural Network with Genetic,
+32677883	2020	Incorporating representation learning and multihead attention to improve
+32601612	2020	COVID-KOP: Integrating Emerging COVID-19 Data with the ROBOKOP Database.
+36277606	2020	Siamese KG-LSTM: A deep learning model for enriching UMLS Metathesaurus synonymy.
+32459650	2020	Extraction of Information Related to Drug Safety Surveillance From Electronic
+33029614	2020	Use of word and graph embedding to measure semantic relatedness between Unified
+33226347	2020	Visualization Environment for Federated Knowledge Graphs: Development of an
+32637040	2020	Constructing knowledge graphs and their biomedical applications.
+32436854	2020	A Method to Learn Embedding of a Probabilistic Medical Knowledge Graph: Algorithm
+33317512	2020	KGen: a knowledge graph generator from biomedical scientific literature.
+32180547	2020	Wikidata as a knowledge graph for the life sciences.
+32117570	2020	Constructing a knowledge-based heterogeneous information graph for medical health
+31900127	2020	Evolving knowledge graph similarity for supervised learning in complex biomedical
+31787089	2019	Multimodal deep representation learning for protein interaction identification
+30961578	2019	An ontological framework for the formalization, organization and usage of
+31801534	2019	Improving rare disease classification using imperfect knowledge graph.
+31769676	2019	ROBOKOP KG and KGB: Integrated Knowledge Graphs from Federated Sources.
+30935389	2019	QAnalysis: a question-answer driven analytic tool on knowledge graphs for
+31238875	2019	edge2vec: Representation learning using edge semantics for biomedical knowledge
+31801540	2019	An attention-based deep learning model for clinical named entity recognition of
+31787075	2019	A hybrid deep learning framework for bacterial named entity recognition with
+32063919	2019	Heterogeneous Multi-Layered Network Model for Omics Data Integration and
+30768158	2019	BioKEEN: a library for learning and evaluating biological knowledge graph
+30834481	2019	KGDDS: A System for Drug-Drug Similarity Measure in Therapeutic Substitution
+31000794	2019	Drug prioritization using the semantic properties of a knowledge graph.
+30923274	2019	Design Considerations for a Knowledge Graph: The WATRIMed Use Case.
+31410449	2019	ROBOKOP: an abstraction layer and user interface for knowledge graphs to support
+30961599	2019	Relation path feature embedding based convolutional neural network method for
+32308857	2019	Bootstrapping Adversarial Learning of Biomedical Ontology Alignments.
+29763706	2018	Exploiting semantic patterns over biomedical knowledge graphs for predicting
+30399432	2018	CBN: Constructing a clinical Bayesian network based on data from the electronic
+34690624	2018	Personalized Health Knowledge Graph.
+30441083	2018	Cognitive DDx Assistant in Rare Diseases.
+29347997	2018	OpenBiodiv-O: ontology of the OpenBiodiv knowledge management system.
+29028901	2018	A collaborative filtering-based approach to biomedical knowledge discovery.
+29843590	2018	SemaTyP: a knowledge graph based literature mining method for drug discovery.
+30815154	2018	Mining Disease-Symptom Relation from Massive Biomedical Literature and Its
+30755790	2018	KnetMaps: a BioJS component to visualize biological knowledge networks.
+30189889	2018	Using predicate and provenance information from a knowledge graph for drug
+30172761	2018	Semantic relation extraction aware of N-gram features from unstructured
+29238346	2017	Generating a Tolerogenic Cell Therapy Knowledge Graph from Literature.
+28729710	2017	Learning a Health Knowledge Graph from Electronic Medical Records.
+28579531	2017	Automated extraction of potential migraine biomarkers using a semantic graph.
+28609292	2017	Knowledge Discovery in Biological Databases for Revealing Candidate Genes Linked
+28508802	2017	Knowledge Engineering as a Component of the Curriculum for Medical Cybernetists.
+28299322	2017	Semantic Health Knowledge Graph: Semantic Integration of Heterogeneous Medical
+28449114	2017	Neuro-symbolic representation learning on biological knowledge graphs.
+28360346	2017	Individualized Knowledge Graph: A Viable Informatics Path to Precision Medicine.
+27899636	2017	The Monarch Initiative: an integrative data and analytic platform connecting
+28758046	2016	Medical Question Answering for Clinical Decision Support.
+28649676	2016	Embedding Open-domain Common-sense Knowledge from Text.
+26924143	2015	Knowledge mapping analysis of Ebola research.
+28748229	2015	Predicting Treatment Relations with Semantic Patterns over Biomedical Knowledge
+26150906	2015	Discovering relations between indirectly connected biomedical concepts.
+25971816	2015	KnowLife: a versatile approach for constructing a large knowledge graph for

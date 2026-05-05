@@ -1,0 +1,35 @@
+PubMed_ID	Year	Title
+40463593	2025	Enhancing the performance of neurosurgery medical question-answering systems
+40893436	2025	Quantifying compatibility mechanisms in traditional Chinese medicine with
+41282120	2025	Bridging the Computational-Experimental Gap: Leveraging Large Language Model to
+40164620	2025	Deciphering shared molecular dysregulation across Parkinson's disease variants
+39418829	2025	Knowledge-driven multi-graph convolutional network for brain network analysis and
+40505141	2025	Knowledge Graph-Enhanced Deep Learning Model (H-SYSTEM) for Hypertensive
+40426694	2025	A Unified Framework for Alzheimer's Disease Knowledge Graphs: Architectures,
+40171303	2025	Knowledge graph and its application in the study of neurological and mental
+40898580	2025	Lumbar spondylolysis: A bibliometric analysis and visualization research from
+41301129	2025	An Explainable AI Framework for Corneal Imaging Interpretation and Refractive
+39005357	2024	Alzheimer's Disease Knowledge Graph Enhances Knowledge Discovery and Disease
+39519363	2024	An Accurate and Efficient Approach to Knowledge Extraction from Scientific
+38296864	2024	Convolutional neural network based data interpretable framework for Alzheimer's
+38635981	2024	The Alzheimer's Knowledge Base: A Knowledge Graph for Alzheimer Disease Research.
+38147362	2024	Mining literature and pathway data to explore the relations of ketamine with
+38888947	2024	Developing a Chatbot to Support Individuals With Neurodevelopmental Disorders:
+38415462	2024	Clinical Application of MRI in Coronavirus Disease 2019: A Bibliometric Analysis.
+39769215	2024	Artificial Intelligence-Assisted Comparative Analysis of the Overlapping
+37250641	2023	Early detection of Parkinson's disease through enriching the electronic health
+37947958	2023	Semantic representation of neural circuit knowledge in Caenorhabditis elegans.
+37569714	2023	Literature-Based Discovery Predicts Antihistamines Are a Promising Repurposed
+37162850	2023	Semantic Representation of Neural Circuit Knowledge in Caenorhabditis elegans.
+36780558	2023	AI reveals insights into link between CD33 and cognitive impairment in
+36276852	2022	Knowledge-Based Recurrent Neural Network for TCM Cerebral Palsy Diagnosis.
+36180861	2022	Mining on Alzheimer's diseases related knowledge graph to identity potential
+36072713	2022	A Comprehensive Quantitative and Biological Neural Network Optimization Model of
+35621799	2022	Bibliometric Analyses of Web of Science Illuminate Research Advances of
+35930346	2022	Deciphering the Diversity of Mental Models in Neurodevelopmental Disorders:
+35224477	2021	Semantic Integration of Multi-Modal Data and Derived Neuroimaging Results Using
+33262885	2021	Predicting the relationships between gut microbiota and mental disorders with
+33554913	2021	A Systems Biology Approach for Hypothesizing the Effect of Genetic Variants on
+34057414	2021	Head and Tail Entity Fusion Model in Medical Knowledge Graph Construction: Case
+32575372	2020	A Knowledge-Based Machine Learning Approach to Gene Prioritisation in Amyotrophic
+28449114	2017	Neuro-symbolic representation learning on biological knowledge graphs.
